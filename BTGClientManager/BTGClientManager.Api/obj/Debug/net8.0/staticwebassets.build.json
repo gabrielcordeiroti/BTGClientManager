@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KtnR14bjLd4czBpYR29L91KA37QG/QhqmgTmtCWkVPw=",
+  "Source": "BTGClientManager.Api",
+  "BasePath": "_content/BTGClientManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

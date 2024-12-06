@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BTGClientManager.Domain/1.0.0": {
+        "runtime": {
+          "BTGClientManager.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTGClientManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

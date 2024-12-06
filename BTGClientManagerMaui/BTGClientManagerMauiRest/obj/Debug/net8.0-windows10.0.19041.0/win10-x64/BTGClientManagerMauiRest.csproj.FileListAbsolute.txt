@@ -1,0 +1,12 @@
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BTGClientManagerMauiRest.csproj.AssemblyReference.cache
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\BTGClientManager\BTGClientManagerMaui\BTGClientManagerMauiRest\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BTGClientManagerMauiRest.GeneratedMSBuildEditorConfig.editorconfig

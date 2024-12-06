@@ -1,0 +1,15 @@
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\bin\Debug\net8.0\BTGClientManager.Infrastructure.deps.json
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\bin\Debug\net8.0\BTGClientManager.Infrastructure.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\bin\Debug\net8.0\BTGClientManager.Infrastructure.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\bin\Debug\net8.0\BTGClientManager.Domain.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\bin\Debug\net8.0\BTGClientManager.Domain.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.csproj.AssemblyReference.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.AssemblyInfoInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.AssemblyInfo.cs
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClien.238C467C.Up2Date
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\refint\BTGClientManager.Infrastructure.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\BTGClientManager.Infrastructure.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Infrastructure\obj\Debug\net8.0\ref\BTGClientManager.Infrastructure.dll

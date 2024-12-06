@@ -1,0 +1,11 @@
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\bin\Debug\net8.0\BTGClientManager.Domain.deps.json
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\bin\Debug\net8.0\BTGClientManager.Domain.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\bin\Debug\net8.0\BTGClientManager.Domain.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.AssemblyInfoInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.AssemblyInfo.cs
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.csproj.CoreCompileInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\refint\BTGClientManager.Domain.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\BTGClientManager.Domain.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Domain\obj\Debug\net8.0\ref\BTGClientManager.Domain.dll

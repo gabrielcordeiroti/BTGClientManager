@@ -1,0 +1,17 @@
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Application.deps.json
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Application.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Application.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Domain.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Infrastructure.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Domain.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\bin\Debug\net8.0\BTGClientManager.Infrastructure.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.csproj.AssemblyReference.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.AssemblyInfoInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.AssemblyInfo.cs
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.csproj.CoreCompileInputs.cache
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClien.ACB28855.Up2Date
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\refint\BTGClientManager.Application.dll
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\BTGClientManager.Application.pdb
+C:\BTGClientManager\BTGClientManager\BTGClientManager.Application\obj\Debug\net8.0\ref\BTGClientManager.Application.dll
